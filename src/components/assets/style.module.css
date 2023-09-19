@@ -6,7 +6,7 @@
   background: linear-gradient(to right, #e2b879, #946e3b);
   color: white;
   border-radius: 10px;
-  padding: 10px;
+  padding: 5px;
 }
 .containerSelect {
   background: linear-gradient(to right, #ad9474, #e4aa52);
@@ -37,8 +37,14 @@ body {
   color: #ffffff;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
+}
+.quoteTitle{
+  font-size: x-large;
+}
+.fetchedAuthor{
+  font-size: x-large;
 }
 .loading {
   color: #ffffff;
