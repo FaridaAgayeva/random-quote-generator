@@ -1,0 +1,49 @@
+.container {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  background: linear-gradient(to right, #e2b879, #946e3b);
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.containerSelect {
+  background: linear-gradient(to right, #ad9474, #e4aa52);
+  color: white;
+  width: 100%;
+  border-radius: 5px;
+  height: 7vh;
+  font-size: x-large;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  line-height: 10px;
+  letter-spacing: 0.2rem;
+}
+.options {
+  color: white;
+  background-color: #e6be84;
+  font-weight: bold;
+}
+body {
+  background-image: url('/public/images/clouds2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.quoteTitle,
+.fetchedAuthor,
+.fetchedQuote {
+  color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: x-large;
+  text-align: center;
+}
+.loading {
+  color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: x-large;
+  text-align: center;
+}
